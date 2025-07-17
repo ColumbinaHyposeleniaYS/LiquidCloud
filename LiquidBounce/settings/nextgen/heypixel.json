@@ -830,7 +830,7 @@
         "value": [
           {
             "name": "Enabled",
-            "value": true
+            "value": false
           },
           {
             "name": "Constraints",
@@ -5784,7 +5784,7 @@
         "value": [
           {
             "name": "Enabled",
-            "value": true
+            "value": false
           },
           {
             "name": "Constraints",
@@ -9659,23 +9659,23 @@
           {
             "name": "Targets",
             "value": [
-              "minecraft:pink_bed",
-              "minecraft:gray_bed",
+              "minecraft:cyan_bed",
               "minecraft:orange_bed",
-              "minecraft:black_bed",
               "minecraft:dragon_egg",
-              "minecraft:lime_bed",
-              "minecraft:green_bed",
-              "minecraft:brown_bed",
-              "minecraft:light_blue_bed",
-              "minecraft:white_bed",
               "minecraft:yellow_bed",
-              "minecraft:blue_bed",
-              "minecraft:purple_bed",
-              "minecraft:magenta_bed",
-              "minecraft:red_bed",
               "minecraft:light_gray_bed",
-              "minecraft:cyan_bed"
+              "minecraft:brown_bed",
+              "minecraft:magenta_bed",
+              "minecraft:light_blue_bed",
+              "minecraft:red_bed",
+              "minecraft:blue_bed",
+              "minecraft:gray_bed",
+              "minecraft:white_bed",
+              "minecraft:lime_bed",
+              "minecraft:purple_bed",
+              "minecraft:green_bed",
+              "minecraft:pink_bed",
+              "minecraft:black_bed"
             ]
           },
           {
@@ -10556,7 +10556,7 @@
         "value": [
           {
             "name": "Enabled",
-            "value": true
+            "value": false
           },
           {
             "name": "Constraints",
@@ -16308,9 +16308,9 @@
           {
             "name": "Blocks",
             "value": [
-              "minecraft:obsidian",
+              "minecraft:ender_chest",
               "minecraft:crying_obsidian",
-              "minecraft:ender_chest"
+              "minecraft:obsidian"
             ]
           },
           {
@@ -16581,9 +16581,9 @@
                   {
                     "name": "Blocks",
                     "value": [
-                      "minecraft:crying_obsidian",
+                      "minecraft:obsidian",
                       "minecraft:ender_chest",
-                      "minecraft:obsidian"
+                      "minecraft:crying_obsidian"
                     ]
                   }
                 ]
@@ -17880,7 +17880,7 @@
   "status": "Bypassing",
   "chat": [
     "§7Tested on §bpc.bjd-mc.com:25565 §7on §aMinecraft §71.20.1",
-    "§7For §e1.8 Combat§7: Turn off §cItem Cooldown §7on §6KillAura §7and §6Auto Clicker",
+    "§7For §eSkyWars and BedWars",
     "§7Test Server: §9pc.bjd-mc.com:25565"
   ]
 }
